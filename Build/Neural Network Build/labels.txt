@@ -1,0 +1,35 @@
+0 Aloo Tikki
+1 Apple
+2 Banana Chips
+3 Bread
+4 Chakli
+5 Chapati
+6 Chole
+7 Dosa
+8 Egg
+9 French Fries
+10 Ginger
+11 Gujiya
+12 Gulab Jamun
+13 Idli
+14 Jalebi
+15 Kaju Katli
+16 Kashmiri Apple
+17 Khaman 
+18 Lassi
+19 Lemon
+20 Limes
+21 Medu Vada
+22 Modak
+23 Naan
+24 Pasta
+25 Pear
+26 Pear Williams
+27 Pizza
+28 Poha
+29 Rasgulla
+30 Samosa
+31 Thepla
+32 Vada Pav
+33 Walnut
+34 Watermelon

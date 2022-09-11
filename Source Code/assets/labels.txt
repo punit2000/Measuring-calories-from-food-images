@@ -1,0 +1,35 @@
+0  89   13  2   4    Aloo Tikki
+1  52   25  0.6 1    Apple
+2  519  17  9.5 0.7  Banana Chips
+3  256  13  1   2    Bread
+4  42   2.2 0.4 2.3  Chakli
+5  70   15  3.7 7.9  Chapati
+6  223  27  9.7 10.7 Chole
+7  133  19  5.2 2.7  Dosa
+8  155  0.5 5   6    Egg
+9  323  54  18  7    French Fries
+10 80   24  12  18   Ginger
+11 273  27  19  2.25 Gujiya
+12 112  24  7   4    Gulab Jamun
+13 39   8   2   4    Idli
+14 150  5.6 21  5.7  Jalebi
+15 41   6   2   1    Kaju Katli
+16 60   28  0.3 5    Kashmiri Apple
+17 81   23  1   4    Khaman 
+18 286  6.4 9.8 2    Lassi
+19 29   10  0.2 0.1  Lemon
+20 30   7.1 5.1 0.5  Limes
+21 97   8.9 5.2 5    Medu Vada
+22 126  21  4.4 1.2  Modak
+23 250  51  13  8.9  Naan
+24 131  37  0.8 7.5  Pasta
+25 101  15  0.1 0.13 Pear
+26 110  16  0.1 0.21 Pear Williams
+27 266  39  11  10.2 Pizza
+28 180  35  2.9 0.2  Poha
+29 170  15  3.9 1.2  Rasgulla
+30 308  7.9 6   1.4  Samosa
+31 120  13  6.5 2.3  Thepla
+32 197  34  4   6.6  Vada Pav
+33 900  14  66  16   Walnut
+34 30   12  0.1 0.4  Watermelon
